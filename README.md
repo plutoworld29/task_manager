@@ -1,16 +1,9 @@
-# task_manager
+  Task Manager App
+This is a simple Task Manager application built with Flutter. It allows users to add, mark as complete, and delete tasks.
 
-A new Flutter project.
+Features
+Add Tasks: Quickly add new tasks to your list.
+Mark as Complete: Mark tasks as complete with a checkbox. Completed tasks are visually struck through.
+Delete Tasks: Remove tasks from the list by swiping them away or by tapping the delete icon.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stephen Amule Roll Number:202310281
